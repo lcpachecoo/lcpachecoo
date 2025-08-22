@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Me chamo Lucas.<br>Sou estudante de Ciência da Computação (PUC-GO)<br>Estou atualmente no 3º período.</p>
+<p align="left">Me chamo Lucas.<br>Sou estudante de Ciência da Computação (PUC-GO)<br>Estou atualmente no 5º período.</p>
 
 ###
 
