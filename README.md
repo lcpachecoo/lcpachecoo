@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu livro aberto de programação.</p>
+<p align="left">Computer Science student focused on software development.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Me chamo Lucas.<br>Sou estudante de Ciência da Computação (PUC-GO)<br>Estou atualmente no 5º período.</p>
+<p align="left">Computer Science student (6th semester) at PUC-GO.<br>Dedicated to building clean, efficient software and learning modern technologies.</p>
 
 ###
 
